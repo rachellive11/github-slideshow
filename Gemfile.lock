@@ -250,6 +250,10 @@ GEM
     unicode-display_width (1.6.0)
     yell (2.2.0)
 
+
+gem "kramdown", ">= 2.3.0"
+
+
 PLATFORMS
   ruby
 
